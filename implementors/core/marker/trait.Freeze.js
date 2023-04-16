@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"rustc_demangle":[["impl&lt;'a&gt; Freeze for <a class=\"struct\" href=\"rustc_demangle/struct.Demangle.html\" title=\"struct rustc_demangle::Demangle\">Demangle</a>&lt;'a&gt;",1,["rustc_demangle::Demangle"]],["impl Freeze for <a class=\"struct\" href=\"rustc_demangle/struct.TryDemangleError.html\" title=\"struct rustc_demangle::TryDemangleError\">TryDemangleError</a>",1,["rustc_demangle::TryDemangleError"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
